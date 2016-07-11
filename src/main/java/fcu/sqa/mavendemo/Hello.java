@@ -3,7 +3,7 @@ package fcu.sqa.mavendemo;
 public class Hello {
 
 	public String sayHello(String name) {
-		return "Hello " + name + "!";
+		return "Hi " + name + "!";
 	}
 	
 	public static void main(String[] args) {
